@@ -1,1 +1,1 @@
-Tis repository is for testing
+This repository is for testing
